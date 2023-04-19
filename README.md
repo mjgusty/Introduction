@@ -1,2 +1,2 @@
 # Introduction
-Intro to git
+I'm using this to learn Git
